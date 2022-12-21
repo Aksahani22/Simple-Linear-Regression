@@ -4,10 +4,10 @@
 * Repoository consist of 
   1. Jupyter Notebook 
   2. Subjective and General question-answers [pdf file]
-  4. Rented Bike Data set [csv file]
-  3. Readme.md fil
+  3. Rented Bike Data set [csv file]
+  4. Readme.md fil
   
- * Jupyter notebook consist complete process such as
+* Jupyter notebook consist complete process such as
   1. Data Cleaning
   2. Data Analysis
   3. Data Pre-Processing
